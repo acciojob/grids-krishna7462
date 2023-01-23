@@ -1,2 +1,14 @@
-
+.container{
+	background-color:pink;
+	border: 10px solid lightgreen;
+	
+}
+.row{
+	padding:10px;
+	
+}
+.text{
+	border-style: dashed;
+	
+}
 /* Your CSS Code here. */
